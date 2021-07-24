@@ -1,0 +1,109 @@
+body{
+    font-family: sans-serif;
+}
+.dots{
+    height: 20px;
+    width: 20px;
+    padding: 5px 10px 0 10px;
+}
+
+.g1{
+    display: inline-block;
+    border: none;
+    border-radius: 10px;
+    border-color: transparent;
+    background-color: white;
+}
+
+.g2{
+    background-color: rgb(144,56,228) ;
+    border: none;
+    color: white;
+    padding: 10px 25px 10px 25px;
+    border-radius: 4px;
+        
+}
+
+.l1{
+    color: black;
+    text-decoration: none;
+    padding-right: 10px;
+    font-size: 16;
+}
+
+.log{
+    text-align: right;
+    font-size: 13px;
+}
+
+.log2{
+    text-align: center;
+    padding-top: 50px; 
+}
+
+.sbox{
+    margin-top: 45px;
+    width: 570px;
+    height: 40px;
+    border: solid;
+    border-color: lightcyan;
+    border-radius: 25px;
+    background-image: url(https://icon-library.com/images/google-search-magnifying-glass-icon/google-search-magnifying-glass-icon-5.jpg), url(https://png.pngitem.com/pimgs/s/490-4900285_voice-search-icon-png-transparent-png.png);
+    background-size: 18px;
+    background-repeat: no-repeat;
+    background-position: 12px, 540px;
+}
+
+.log3{
+    text-align: center;
+    margin-top: 28px;
+}
+.but1{
+    border: none;
+    padding: 10px 15px 10px 15px;
+    margin: 0 5px 0 5px;
+    color: black;
+    background-color: rgb(248, 249, 250);
+    border-radius: 5px;
+}
+
+.lang{
+    text-align: center;
+    margin-top: 27px;
+    font-size: 10px;
+}
+
+.hyp{
+    text-decoration: none;
+    margin-left: 4.5px;
+}
+
+.footer{
+    z-index: -1;
+    position:  absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #f2f2f2;
+    padding: 5px 0 15px 0;
+}
+
+.sfo{
+    display: flex;
+    justify-content: space-around; 
+    flex-wrap: wrap;
+}
+
+.lnk{
+    font-size: 14px;
+    text-decoration: none;
+    color: rgb(111,111,111);
+    margin-left: 26px;
+}
+
+.lnk2{
+    font-size: 14px;
+    text-decoration: none;
+    color: rgb(111,111,111);
+    margin-right: 26px;
+}
+
